@@ -8,9 +8,11 @@ int main() {
     scanf("%d",&num);
     if(num%2==0) {
         printf("The number is even\n");
+	printf("Yes")
     }
     else {
         printf("The number is odd\n");
-    }
+	printf("No")    
+}
     return 0;
 }
