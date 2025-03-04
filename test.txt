@@ -1,3 +1,5 @@
 Kripa Shankar Yadav
 Hello World
 Slkfj
+Create a file of c program 
+	1.write a program to check a no is even or odd.
