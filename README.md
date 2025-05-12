@@ -22,3 +22,10 @@ I’m a college student with a strong interest in technology, passionate about l
 	•	Launch a real-world product/startup
 	•	Deepen my knowledge of system design, DevOps, and cloud infrastructure
 	•	Learn and grow every day in tech and beyond
+
+📂 About This Repository
+This repository is my Source Code Management Lab, where I’m learning the basics of Git and GitHub by making small changes to beginner-friendly code. It’s a practice space where I:
+	•	Create, clone, and manage repositories
+	•	Make commits and branches
+	•	Merge changes and resolve conflicts
+	•	Experiment with version control in a safe environment
